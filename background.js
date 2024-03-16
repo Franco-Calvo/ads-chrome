@@ -1,4 +1,13 @@
-const adClasses = ["vdQmEd", "fP1Qef", "xpd", "EtOod", "pkphOe"];
+const adClasses = [
+  "vdQmEd",
+  "fP1Qef",
+  "xpd",
+  "EtOod",
+  "pkphOe",
+  "uEierd",
+  "tvcap",
+  "qGXjvb",
+];
 
 function hideSponsoredResults() {
   adClasses.forEach((adClass) => {

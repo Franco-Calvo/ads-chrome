@@ -1,5 +1,14 @@
 function toggleAds(display) {
-  const adClasses = ["vdQmEd", "fP1Qef", "xpd", "EtOod", "pkphOe"];
+  const adClasses = [
+    "vdQmEd",
+    "fP1Qef",
+    "xpd",
+    "EtOod",
+    "pkphOe",
+    "uEierd",
+    "tvcap",
+    "qGXjvb",
+  ];
   adClasses.forEach((adClass) => {
     document.querySelectorAll("." + adClass).forEach((element) => {
       element.style.display = display;
