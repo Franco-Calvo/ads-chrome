@@ -1,4 +1,4 @@
-## ADS Block
+## Safe Search
 
 This browser extension (compatible with google search) is designed to improve your browsing experience by hiding sponsored ads. Its main purpose is to help you avoid potential scams and make your web search cleaner and less intrusive.
 
