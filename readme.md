@@ -4,6 +4,9 @@ This browser extension (compatible with google search) is designed to improve yo
 
 ## Features
 
+![Screen](Screen.png)
+
+
 Hide Sponsored Ads: Automatically removes sponsored ads from your Google search results.
 
 Improve User Experience: Enjoy a cleaner browsing experience and focus on the content that really matters.
